@@ -1,0 +1,11 @@
+{
+    "projects": {
+      "frontend": {
+        "rootDirectory": "mytalorzone"
+      },
+      "backend": {
+        "rootDirectory": "ecommercebackend"
+      }
+    }
+  }
+  
