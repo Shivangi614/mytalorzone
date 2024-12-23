@@ -1,5 +1,5 @@
 {
-   {
+  "version": 2,
   "projects": {
     "frontend": {
       "rootDirectory": "mytalorzone",
@@ -33,6 +33,4 @@
       ]
     }
   }
-}
-
 }
