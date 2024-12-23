@@ -1,11 +1,3 @@
 {
-    "projects": {
-      "frontend": {
-        "rootDirectory": "mytalorzone"
-      },
-      "backend": {
-        "rootDirectory": "ecommercebackend"
-      }
-    }
-  }
-  
+    "REWRITES":[{"SOURCE":"/(.*)","DESTINATION":"/"}]
+}
